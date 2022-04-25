@@ -1,7 +1,7 @@
 # initialize all seats to zero or empty. we need next 3 lines of code to empty the seats. We can comment after once use.
-# Row1=['0']*8
-# Row2=['0']*8
-# Row3=['0']*8
+Row1=['0']*8
+Row2=['0']*8
+Row3=['0']*8
 
 userInput= int(input("Enter the number of seats requested: ")) # take the input from user
 
